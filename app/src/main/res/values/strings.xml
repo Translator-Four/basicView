@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Translate_kotlin</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="sideslip_header_desc">Navigation header</string>
+    <string name="sideslip_header_title">昵称</string>
+    <string name="menu_home">我的收藏</string>
+    <string name="menu_course">我的课程</string>
+    <string name="menu_word">我的生词</string>
+</resources>
