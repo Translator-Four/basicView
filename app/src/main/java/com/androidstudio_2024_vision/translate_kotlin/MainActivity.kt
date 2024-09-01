@@ -54,7 +54,6 @@ class MainActivity : AppCompatActivity() {
         return NavigationUI.navigateUp(navController, mAppBarConfiguration)
                 || super.onSupportNavigateUp()
     }
-    val mLeftSpinner: Spinner = findViewById(R.id.spinner_left)
-    val mRightSpinner: Spinner = findViewById(R.id.spinner_right)
+
 
 }
